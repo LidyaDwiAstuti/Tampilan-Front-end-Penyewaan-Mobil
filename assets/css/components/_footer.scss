@@ -1,0 +1,56 @@
+#footer {
+    margin-top: 8%;
+    margin-bottom: 5%;
+    width: 100%;
+    padding-right: 150px;
+    padding-left: 150px;
+
+    #address {
+        p {
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+        }
+    }
+
+    #navigation-footer {
+        ul {
+            a {
+                font-style: normal;
+                font-weight: bold;
+                font-size: 14px;
+                line-height: 20px;
+                color: black;
+
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    #connect-with-us {
+        p {
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+        }
+
+        svg {
+            background-color: #0D28A6;
+            border-radius: 100%;
+            padding: 5px;
+            color: white;
+            margin-right: 8px;
+        }
+    }
+
+    #copyright {
+        p {
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 20px;
+        }
+    }
+}

@@ -1,0 +1,31 @@
+#navigation {
+    background-color: transparent;
+
+    .container-fluid {
+        margin-left: 10%;
+        margin-right: 10%;
+
+        .navbar-collapse {
+            .navbar-nav {
+                li {
+                    margin-right: 20px;
+
+                    a {
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 14px;
+                        line-height: 20px;
+                        color: #000000;
+                    }
+
+                    .btn-success {
+                        color: white;
+                        background-color: #5CB85F;
+                        border: none;
+                        border-radius: 2px;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+#advertisement {
+    margin-top: 4%;
+    width: 100%;
+    padding-right: 150px;
+    padding-left: 150px;
+
+    .card {
+        height: 326px;
+        background-color: #0D28A6;
+        border: none;
+        border-radius: 10px;
+
+        .card-body {
+            .text-center {
+                h5 {
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 36px;
+                }
+
+                p {
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                }
+
+                button {
+                    margin-top: 6%;
+                    border: none;
+                    border-radius: 2px;
+                    background-color: #5CB85F;
+                }
+            }
+        }
+    }
+}

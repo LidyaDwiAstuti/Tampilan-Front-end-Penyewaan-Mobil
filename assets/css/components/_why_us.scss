@@ -1,0 +1,81 @@
+#why_us {
+    margin-top: 5%;
+
+    h5 {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    p {
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .row {
+        margin-top: 5%;
+
+        .col-lg-3 {
+            .card {
+                .card-body {
+                    h5 {
+                        font-style: normal;
+                        font-weight: bold;
+                        font-size: 16px;
+                        line-height: 24px;
+                    }
+
+                    p {
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 14px;
+                        line-height: 20px;
+                    }
+
+                    .first {
+                        svg {
+                            width: 24px;
+                            height: 24px;
+                            background-color: #F9CC00 !important;
+                            border-radius: 100%;
+                            padding: 3px;
+                        }
+                    }
+
+                    .second {
+                        svg {
+                            width: 24px;
+                            height: 24px;
+                            background-color: #FA2C5A !important;
+                            border-radius: 100%;
+                            padding: 3px;
+                        }
+                    }
+
+                    .third {
+                        svg {
+                            width: 24px;
+                            height: 24px;
+                            background-color: #0D28A6 !important;
+                            border-radius: 100%;
+                            padding: 3px;
+                        }
+                    }
+
+                    .fourth {
+                        svg {
+                            width: 24px;
+                            height: 24px;
+                            background-color: #5CB85F !important;
+                            border-radius: 100%;
+                            padding: 3px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

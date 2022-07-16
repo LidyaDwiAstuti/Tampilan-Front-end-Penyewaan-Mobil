@@ -1,0 +1,39 @@
+#our_services {
+    margin-top: 5%;
+
+    .row {
+        .sentense {
+            h5 {
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 36px;
+            }
+
+            p {
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 20px;
+            }
+
+            .d-flex {
+                span {
+                    padding-right: 10px;
+
+                    svg {
+                        background-color: #CFD4ED;
+                        border-radius: 100%;
+                    }
+                }
+
+                p {
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 20px;
+                }
+            }
+        }
+    }
+}

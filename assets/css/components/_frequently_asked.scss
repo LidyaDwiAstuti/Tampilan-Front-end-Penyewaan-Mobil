@@ -1,0 +1,30 @@
+#frequently-asked {
+    margin-top: 5%;
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 50px;
+
+    .row {
+        .col-lg-4 {
+            h5 {
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+            }
+
+            p {
+                font-style: normal;
+                font-weight: 300;
+                font-size: 14px;
+            }
+        }
+
+        .col-lg-8 {
+            .accordion {
+                .accordion-item {
+                    background-color: white !important;
+                }
+            }
+        }
+    }
+}

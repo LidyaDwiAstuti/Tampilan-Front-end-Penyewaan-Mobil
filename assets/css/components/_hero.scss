@@ -1,0 +1,45 @@
+#hero {
+    height: 500px;
+    background-color: #F1F3FF;
+    padding-top: 10%;
+
+
+    .tagline {
+        margin-top: 4%;
+
+        h2 {
+            margin-left: 100px;
+            width: 568px;
+            color: #000000;
+            font-style: normal;
+            font-weight: bolder;
+            font-size: 30px;
+            line-height: 150%;
+        }
+
+        p {
+            margin-left: 100px;
+            width: 468px;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+        }
+
+        button {
+            margin-left: 100px;
+            color: white;
+            background-color: #5CB85F;
+            border: none;
+            border-radius: 2px;
+            font-weight: 700;
+            font-size: 14px;
+            padding: 8px 12px;
+        }
+    }
+
+    .image-tagline {
+        img {
+            margin-top: -3%;
+        }
+    }
+}
